@@ -6,4 +6,3 @@ assignments
 [1024170353_faq_system.py](https://github.com/user-attachments/files/32084931/1024170353_faq_system.py)
 [Assignment5.ipynb](https://github.com/user-attachments/files/33446894/Assignment5.ipynb)
 [Assignment6.ipynb](https://github.com/user-attachments/files/33447346/Assignment6.ipynb)
-[UCS420_Assignment7_1024170353.ipynb](https://github.com/user-attachments/files/33526363/UCS420_Assignment7_1024170353.ipynb)
