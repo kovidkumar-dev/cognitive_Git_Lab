@@ -7,3 +7,4 @@ assignments
 [Assignment5.ipynb](https://github.com/user-attachments/files/33446894/Assignment5.ipynb)
 [Assignment6.ipynb](https://github.com/user-attachments/files/33447346/Assignment6.ipynb)
 [Assignment7_1024170353.ipynb](https://github.com/user-attachments/files/33526631/Assignment7_1024170353.ipynb)
+[Assignment8_1024170353.ipynb](https://github.com/user-attachments/files/33855326/Assignment8_1024170353.ipynb)
