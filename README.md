@@ -8,3 +8,5 @@ assignments
 [Assignment6.ipynb](https://github.com/user-attachments/files/33447346/Assignment6.ipynb)
 [Assignment7_1024170353.ipynb](https://github.com/user-attachments/files/33526631/Assignment7_1024170353.ipynb)
 [Assignment8_1024170353.ipynb](https://github.com/user-attachments/files/33855326/Assignment8_1024170353.ipynb)
+[Lab_Assignment_9_UCS420.ipynb](https://github.com/user-attachments/files/35073289/Lab_Assignment_9_UCS420.ipynb)
+[UCS420_Assignment10.ipynb](https://github.com/user-attachments/files/35073309/UCS420_Assignment10.ipynb)
